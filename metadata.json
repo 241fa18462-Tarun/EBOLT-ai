@@ -1,0 +1,8 @@
+{
+  "name": "Ebolt AI Workspace & Bot",
+  "description": "Ebolt premium digital workspace with note management, interactive charts, and intelligent AI assistant powered by Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
